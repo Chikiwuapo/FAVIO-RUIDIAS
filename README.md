@@ -45,8 +45,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=favioruidias&show_icons=true&theme=tokyonight&count_private=true&hide=prs" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=favioruidias&layout=compact&theme=tokyonight&hide=shaderlab,hlsl,cmake" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chikiwuapo&show_icons=true&theme=tokyonight&count_private=true&hide=prs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chikiwuapo&layout=compact&theme=tokyonight&hide=shaderlab,hlsl,cmake" height="180"/>
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ## 🔥 Actividad Reciente
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=favioruidias&theme=tokyonight" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=Chikiwuapo&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ## 🗺️ Mapa de Contribuciones
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=favioruidias&theme=tokyo-night" alt="GitHub activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chikiwuapo&theme=tokyo-night" alt="GitHub activity graph"/>
 </p>
 
 ---
