@@ -1,5 +1,5 @@
-<p align="center" width="200" >
-  <img src="https://raw.githubusercontent.com/Chikiwuapo/FAVIO-RUIDIAS/main/baner-favio.png" alt="Banner de Favio Ruidias" />
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/Chikiwuapo/FAVIO-RUIDIAS/main/baner-favio.png" width="200" alt="Banner de Favio Ruidias"  />
 </p>
 
 <h1 align="center">👋 Hola, soy Favio Ruidias</h1>
