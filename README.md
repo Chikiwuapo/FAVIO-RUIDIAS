@@ -18,7 +18,7 @@
   <a href="https://devproyectos.com/" target="_blank">
     <img src="https://img.shields.io/badge/-🌐%20Portafolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
-  <a href="mailto:favioruidias.dev@gmail.com">
+  <a href="mailto:favioruidias32@gmail.com">
     <img src="https://img.shields.io/badge/-📧%20Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
