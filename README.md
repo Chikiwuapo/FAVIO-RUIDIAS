@@ -1,4 +1,4 @@
-<p align="center" , height="1px">
+<p align="center" width="200" >
   <img src="https://raw.githubusercontent.com/Chikiwuapo/FAVIO-RUIDIAS/main/baner-favio.png" alt="Banner de Favio Ruidias" />
 </p>
 
