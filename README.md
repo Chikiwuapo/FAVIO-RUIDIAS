@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- 🔥 Banner personalizado -->
-  <img src="https://raw.githubusercontent.com/Chikiwuapo/Chikiwuapo/main/baner-favio.png" alt="Banner de Favio Ruidias" />
+  <img src="https://raw.githubusercontent.com/favioruidias/favioruidias/main/baner-favio.png" alt="Banner de Favio Ruidias" />
 </p>
 
 <h1 align="center">👋 Hola, soy Favio Ruidias</h1>
